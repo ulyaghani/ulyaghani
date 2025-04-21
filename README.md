@@ -40,7 +40,7 @@
 <hr/>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="programmer" src="https://miro.medium.com/v2/resize:fit:1400/1*9m-WDdL_ji01bGbjEnutEw.gif" />
+
   <br/><br/><br/>
 </div>
